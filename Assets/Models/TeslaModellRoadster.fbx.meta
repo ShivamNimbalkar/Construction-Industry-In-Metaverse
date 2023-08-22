@@ -3,7 +3,67 @@ guid: 3f8bc337136447d4f819fcbffb1c2b35
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackOut
+    second: {fileID: 2100000, guid: 3a2c4f7f5a7e391448d44379b183c664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burner_red
+    second: {fileID: 2100000, guid: 1f474875e620b87408ef20ad2366d50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarExteriorShell
+    second: {fileID: 2100000, guid: e479919624518874fbd128f666a97931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: af991bfebe62e3c449f4e9b17dac59b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2ccd0007e69acbf428b44fa5e1c9e15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 948847c9c9345d048b5ec95bd375e8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b229702ac419d9149a6c01b672b7f0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte
+    second: {fileID: 2100000, guid: e5a8e7fcdb7c83646af3fd8396659c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RearLight
+    second: {fileID: 2100000, guid: 74ac5d0652cc6854999f2bf54e76cb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims
+    second: {fileID: 2100000, guid: 1bd09f04f30251745810a5292e389080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims2
+    second: {fileID: 2100000, guid: b91c5ed5affdd4749b56467cb3a83540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: 1bcf7966b83ff6e47ba63234769c4003, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
